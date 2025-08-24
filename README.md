@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b3/a7/de/b3a7dea905bfa34cd14e8b3a5d381817.jpg" alt="Banner" width="85%" style="border-radius: 10px;" />
+  <img src="https://i.pinimg.com/1200x/d7/fd/0d/d7fd0da5ca6bfbeba61eb499483e2116.jpg" alt="Banner" width="75%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Biswas</h1>
@@ -10,7 +10,7 @@
 
 <!-- About Me + Side Illustration -->
 <p align="center">
-  <img align="right" src="https://i.pinimg.com/1200x/3d/47/fa/3d47fa1ad9b48b404b22baf3c96e8765.jpg" alt="Illustration" width="300" style="border-radius: 8px;" />
+  <img align="right" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="Illustration" width="250" style="border-radius: 8px;" />
 </p>
 
 - 🎓 **College:** Shri Ram College of Commerce (SRCC), University of Delhi  
