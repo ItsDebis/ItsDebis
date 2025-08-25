@@ -1,6 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/d7/fd/0d/d7fd0da5ca6bfbeba61eb499483e2116.jpg" alt="Banner" width="75%" style="border-radius: 10px;" />
+  <img src="https://github.com/ItsDebis/ItsDebis/blob/main/Matrix%20Style%20Digital%20Sphere.gif" 
+       alt="Banner" 
+       width="45%" 
+       style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Biswas</h1>
@@ -10,14 +13,16 @@
 
 <!-- About Me + Side Illustration -->
 <p align="center">
-  <img align="right" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" alt="Illustration" width="250" style="border-radius: 8px;" />
+  <img align="right" src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" 
+       alt="Illustration" 
+       width="230" 
+       style="border-radius: 8px;" />
 </p>
 
 - 🎓 **College:** Shri Ram College of Commerce (SRCC), University of Delhi  
 - 📘 **Course:** B.Com (Hons.) in Finance — Batch of 2026  
 - 📊 **Focus:** Data Analytics, Finance & Business Technology  
 - 🛠️ Currently learning **Excel**, **Power BI**, **SQL**, and **Python**  
-- 🎥 Fun Fact: I also run a **Personal Finance YouTube channel** with **1M+ subscribers**  
 
 <br clear="right"/>
 
